@@ -20,7 +20,7 @@ Insertion Sort - Patika
   
     O(n^2)
     
-3)
+3)Time Complexity     
   
     Average case:O(n)
     Worst case:O(n^2)
